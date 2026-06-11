@@ -103,6 +103,9 @@ p = np.array([[5,6],[9,9]])
 result = np.dot(h,p)
 print(result)
 
+# iloc
+
+
 
 
 
